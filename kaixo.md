@@ -1,3 +1,3 @@
 **Kaixo Auritze**
 
-Ni Auritze naiz, zer moduz?
+Ni Auritze naiz. Zer moduz?
