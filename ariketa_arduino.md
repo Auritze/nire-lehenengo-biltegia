@@ -1,7 +1,4 @@
----
-title: Ariketa arduino
-weight: 2
----
+
 
 ## Izenburua
 
@@ -9,7 +6,10 @@ weight: 2
 
 Testu normala
 
-
+---
+title: Ariketa arduino
+weight: 2
+---
 
 > arduino programa (< elementuaz)
 
