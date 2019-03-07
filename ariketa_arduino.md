@@ -1,5 +1,3 @@
-AIMAR
-
 ---
 title: Ariketa arduino
 weight: 2
